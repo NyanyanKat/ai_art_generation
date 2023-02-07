@@ -10,3 +10,6 @@ npm create vite@4.0.0 ./
 npm install -D tailwindcss postcss autoprefixer
 configure tailwind config
 install file-saver
+
+in server config
+add "type": "module"
