@@ -13,3 +13,7 @@ install file-saver
 
 in server config
 add "type": "module"
+
+Get API from openai => API => click account on top right => view API keys => create new secret key
+
+Go to cloudinary dashboard => copy cloud name
